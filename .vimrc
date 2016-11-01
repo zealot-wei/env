@@ -21,4 +21,4 @@ set ignorecase    "ignore case when search
 
 
 "plugin setting
-call pathogen#infect() "use pathogen manage plugin
+"call pathogen#infect() "use pathogen manage plugin
